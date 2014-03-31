@@ -14,6 +14,11 @@ Bundle 'scrooloose/nerdtree'
 Bundle 'thoughtbot/vim-rspec'
 Bundle 'tpope/vim-commentary'
 Bundle 'croaky/vim-colors-github'
+" for Snipmate
+Bundle 'MarcWeber/vim-addon-mw-utils'
+Bundle 'tomtom/tlib_vim'
+Bundle 'garbas/vim-snipmate'
+Bundle 'honza/vim-snippets'
 
 source ~/.vim/rspec
 

@@ -20,8 +20,6 @@ Bundle 'tomtom/tlib_vim'
 Bundle 'garbas/vim-snipmate'
 Bundle 'honza/vim-snippets'
 
-source ~/.vim/rspec
-
 runtime macros/matchit.vim
 filetype indent plugin on
 syntax on
